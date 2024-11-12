@@ -1,0 +1,5 @@
+outs:
+- md5: b6e275b0e6fd581ab65b28ae28db319b
+  size: 44
+  hash: md5
+  path: test_data_for_predict.csv
