@@ -5,4 +5,6 @@
 - Установленные зависимости (pip install -r requirements.txt)
 
 Команда: Лбов Александр, Липка Александр, Сергей Казанцев
-models, service - Сережа
+service - Сережа
+log_config, models - Липка
+swagger, requirements - Лбов 
